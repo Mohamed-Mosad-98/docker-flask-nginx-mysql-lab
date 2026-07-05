@@ -236,25 +236,29 @@ docker volume ls
 
 ## Build Docker Image & Run Flask
 
-![Build](screenshots/02-build-and-run.png)
+<img width="1920" height="1080" alt="build-run-flask" src="https://github.com/user-attachments/assets/cca42b58-4a52-4c9a-a801-421b49695eff" />
+
 
 ---
 
 ## Install Docker Compose
 
-![Compose](screenshots/03-install-docker-compose.png)
+<img width="1920" height="1080" alt="install-docker-compose" src="https://github.com/user-attachments/assets/d20baa5e-28ab-417a-a900-467a4202cb11" />
+
 
 ---
 
 ## Deploy NGINX & MySQL
 
-![Compose Stack](screenshots/04-compose-deployment.png)
+<img width="1920" height="1080" alt="compose-nginx-mysql" src="https://github.com/user-attachments/assets/78a0aa0b-3db1-4491-9b9c-9a8324aaba23" />
+
 
 ---
 
 ## Verify Connectivity & Volume
 
-![Verification](screenshots/05-connectivity-and-volume.png)
+<img width="1920" height="1080" alt="volume-and-connectivity" src="https://github.com/user-attachments/assets/d017d156-4f0d-4aa9-a2a7-2af073e78f80" />
+
 
 ---
 
